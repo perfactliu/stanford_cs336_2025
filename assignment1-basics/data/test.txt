@@ -1,0 +1,14 @@
+hello world!
+<|endoftext|>
+hello world! hello world!
+<|endoftext|>
+hello world!hello world!hello world!
+<|endoftext|>
+hello world!hello world!hello world!hello world!
+<|endoftext|>
+hello world!hello world!hello world!hello world!hello world!
+<|endoftext|>
+hello world!hello world!hello world!hello world!hello world!hello world!
+<|endoftext|>
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+<|endoftext|>
